@@ -19,4 +19,11 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="SalaryData.txt" />
+    <Text Include="SalaryOut.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Salary.out" />
+  </ItemGroup>
 </Project>
